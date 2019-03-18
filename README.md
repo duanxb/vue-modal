@@ -4,7 +4,7 @@
 
 ### Alert
 
-![modal-alert]()
+![modal-alert](https://raw.githubusercontent.com/duanxb/vue-modal/master/alert.gif)
 
 ```javascript  
 
@@ -26,7 +26,7 @@ this.$modal.alert({
 
 ### Confirm
 
-![modal-confirm]()
+![modal-confirm](https://raw.githubusercontent.com/duanxb/vue-modal/master/confirm.gif)
 
 ```javascript
 
@@ -60,7 +60,7 @@ this.$modal.confirm({
 
 ### Toast
 
-![modal-toast]()
+![modal-toast](https://raw.githubusercontent.com/duanxb/vue-modal/master/toast.gif)
 
 ```javascript
     //一般的Toast
@@ -93,7 +93,7 @@ this.$modal.confirm({
 
 ### Loading
 
-![modal-loading]()
+![modal-loading](https://raw.githubusercontent.com/duanxb/vue-modal/master/loading.gif)
 
 ```javascript
     //打开loading
@@ -117,7 +117,7 @@ this.$modal.confirm({
 
 ### Notify
 
-![modal-notify]()
+![modal-notify](https://raw.githubusercontent.com/duanxb/vue-modal/master/notify.gif)
 
 ```javascript
     this.$modal.notify({
@@ -141,7 +141,7 @@ this.$modal.confirm({
 
 ### Prompt
 
-![modal-prompt]()
+![modal-prompt](https://raw.githubusercontent.com/duanxb/vue-modal/master/prompt.gif)
 
 ```javascript
     this.$modal.prompt({
@@ -168,7 +168,7 @@ this.$modal.confirm({
 
 ### ModalLayer
 
-![ModalLayer]()
+![ModalLayer](https://raw.githubusercontent.com/duanxb/vue-modal/master/layer.gif)
 
 ```html
     <modal-layer title="modaltitle" stylename="stylename">
